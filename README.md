@@ -13,7 +13,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 
 ## ✨ Preview
 
-You can view the live site here: [Link to deployed portfolio (Update this!)](https://yourwebsite.com)
+You can view the live site here: https://nikkipandey-8599.github.io/personal-portfolio/index.html
 
 ![Portfolio Demo Banner](https://github.com/nikkipandey-8599/personal-portfolio/assets/demo-banner.png) <!-- Replace with your screenshot if available -->
 
@@ -38,8 +38,6 @@ You can view the live site here: [Link to deployed portfolio (Update this!)](htt
 ```
 personal-portfolio/
 ├── nikki.html
-├── (assets/)
-│   └── images, icons, etc.
 └── README.md
 ```
 
